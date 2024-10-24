@@ -97,4 +97,4 @@ app.get('/html', (req, res) => {
 
 ```
 De esta manera cuando accedas al endpoint, te mostrará el envio de HTML que hayas hecho, en mi caso un h1
-Navegar a http://localhost:3000/html mostrará el contenido HTML renderizado, en este caso un título con el texto "Has enviado HTML!" en la página.
+Navegar a `http://localhost:3000/html` mostrará el contenido HTML renderizado, en este caso un título con el texto "Has enviado HTML!" en la página.
